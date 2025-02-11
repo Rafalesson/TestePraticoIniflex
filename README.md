@@ -13,8 +13,8 @@ Este projeto é a resposta ao teste prático de programação para a vaga de Des
 
 #### Principal
 
-- **Inserção de Funcionários**: Todos os funcionários são inseridos conforme as informações fornecidas.
-![Tabela com informações dos funcionários]('./src/img/img.png')
+- **Inserção de Funcionários**: Todos os funcionários são inseridos conforme as informações fornecidas:
+![Descrição da Imagem](https://raw.githubusercontent.com/Rafalesson/TestePraticoIniflex/refs/heads/main/src/img/img.png)
 - **Remoção de Funcionário**: O funcionário "João" é removido da lista.
 - **Impressão de Funcionários**: Todos os funcionários são impressos com suas informações formatadas corretamente.
 - **Aumento Salarial**: Cada funcionário recebe um aumento de 10% no salário.
@@ -40,7 +40,7 @@ O projeto segue os princípios SOLID, especialmente o Single Responsibility Prin
 Para executar o projeto, siga os passos abaixo:
 
 1. Clone este repositório.
-2. Abra o projeto em sua IDE favorita (recomendado: Visual Studio Code).
+2. Abra o projeto em sua IDE favorita (eu usei Visual Studio Code).
 3. Compile e execute o arquivo `App.java`.
 
 ### Detalhes das Classes
