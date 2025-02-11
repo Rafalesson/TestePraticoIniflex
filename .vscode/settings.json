@@ -1,0 +1,11 @@
+{
+    "terminal.integrated.shellArgs.windows": [
+      "-NoLogo",
+      "-ExecutionPolicy",
+      "Bypass",
+      "-NoExit",
+      "-Command",
+      "chcp 65001"
+    ],
+    "files.encoding": "utf8"
+  }
