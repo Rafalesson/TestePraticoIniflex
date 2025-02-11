@@ -14,7 +14,7 @@ Este projeto é a resposta ao teste prático de programação para a vaga de Des
 #### Principal
 
 - **Inserção de Funcionários**: Todos os funcionários são inseridos conforme as informações fornecidas:
-![Descrição da Imagem](https://raw.githubusercontent.com/Rafalesson/TestePraticoIniflex/refs/heads/main/src/img/img.png)
+![Tabela com informações dos funcionários](https://raw.githubusercontent.com/Rafalesson/TestePraticoIniflex/refs/heads/main/src/img/img.png)
 - **Remoção de Funcionário**: O funcionário "João" é removido da lista.
 - **Impressão de Funcionários**: Todos os funcionários são impressos com suas informações formatadas corretamente.
 - **Aumento Salarial**: Cada funcionário recebe um aumento de 10% no salário.
