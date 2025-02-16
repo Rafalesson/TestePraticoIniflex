@@ -1,6 +1,6 @@
-# Teste Prático Programação - Iniflex
+# Teste Prático Programação
 
-Este projeto é a resposta ao teste prático de programação para a vaga de Desenvolvedor de Software Júnior na Iniflex. O objetivo era desenvolver um programa em Java que manipula informações de pseudos funcionários de uma indústria, seguindo uma série de requisitos específicos.
+Este projeto é a resposta ao teste prático de programação. O objetivo era desenvolver um programa em Java que manipula informações de pseudos funcionários de uma indústria, seguindo uma série de requisitos específicos.
 
 ## Requisitos Implementados
 
